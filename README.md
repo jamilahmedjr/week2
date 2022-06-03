@@ -1,1 +1,3 @@
-# week2
+Changed The title
+removed const 
+change double to float
