@@ -7,16 +7,16 @@ using namespace std;
 int main()
 {
     double total = 0;
-
+    float cost = 4.12;
+    float profit = 1.45;
+    float kg = 2.76;
 
     cout << "****************************************************************************" << endl;
     cout << "**************** Welcome To my Github Page *********************************" << endl;
     cout << "****************************************************************************" << endl;
     cout << endl;
     cout << endl;
-    float cost = 4.12;
-    float profit = 1.45;
-    float kg = 2.76;
+    
     cout << "Please enter the total number of kilograms of cheese produced: ";
     cin >> total;
     float hold = round(total / kg);
